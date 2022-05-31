@@ -1,0 +1,265 @@
+{
+  "header": {
+    "image": "img/candy.png",
+    "title": "Shop with Exclusives and experience the fastest delivery.",
+    "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quod. Non explicabo aspernatur earum, incidunt, illo totam ullam, illum officiis voluptatibus quam deleniti quod ea quasi dolorum dolores omnis distinctio."
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Apple Original Airpod",
+      "image": "img/airpod.png",
+      "price": 45.59,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quod. Non explicabo aspernatur earum, incidunt, illo totam ullam, illum officiis voluptatibus quam deleniti quod ea quasi dolorum dolores omnis distinctio.",
+      "quantity": 30,
+      "rating": 4,
+      "bestPrice": true
+    },
+    {
+      "id": 2,
+      "name": "High Quality Bagpack",
+      "image": "img/bagpack.png",
+      "price": 69.99,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quod. Non explicabo aspernatur earum, incidunt, illo totam ullam, illum officiis voluptatibus quam deleniti quod ea quasi dolorum dolores omnis distinctio.",
+      "quantity": 100,
+      "rating": 5,
+      "bestPrice": false
+    },
+    {
+      "id": 3,
+      "name": "Quality Ladies Leather Bagpack",
+      "image": "img/bagpack0.png",
+      "price": 49.99,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quod. Non explicabo aspernatur earum, incidunt, illo totam ullam, illum officiis voluptatibus quam deleniti quod ea quasi dolorum dolores omnis distinctio.",
+      "quantity": 42,
+      "rating": 3,
+      "bestPrice": true
+    },
+    {
+      "id": 4,
+      "name": "Casual Ladies Dress",
+      "image": "img/dress.png",
+      "price": 79.99,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quod. Non explicabo aspernatur earum, incidunt, illo totam ullam, illum officiis voluptatibus quam deleniti quod ea quasi dolorum dolores omnis distinctio.",
+      "quantity": 70,
+      "rating": 5,
+      "bestPrice": true
+    },
+    {
+      "id": 5,
+      "name": "Casual Ladies Top",
+      "image": "img/blows.png",
+      "price": 40.50,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quod. Non explicabo aspernatur earum, incidunt, illo totam ullam, illum officiis voluptatibus quam deleniti quod ea quasi dolorum dolores omnis distinctio.",
+      "quantity": 21,
+      "rating": 2,
+      "bestPrice": true
+    },
+    {
+      "id": 6,
+      "name": "Stripless Ladies Dress",
+      "image": "img/stripless.png",
+      "price": 120.40,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quod. Non explicabo aspernatur earum, incidunt, illo totam ullam, illum officiis voluptatibus quam deleniti quod ea quasi dolorum dolores omnis distinctio.",
+      "quantity": 23,
+      "rating": 3,
+      "bestPrice": true
+    },
+    {
+      "id": 7,
+      "name": "Maxi White Lace Dress",
+      "image": "img/white.png",
+      "price": 60.50,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quod. Non explicabo aspernatur earum, incidunt, illo totam ullam, illum officiis voluptatibus quam deleniti quod ea quasi dolorum dolores omnis distinctio.",
+      "quantity": 20,
+      "rating": 4,
+      "bestPrice": false
+    },
+    {
+      "id": 8,
+      "name": "Electric Tea Kettle",
+      "image": "img/heater.png",
+      "price": 150,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quod. Non explicabo aspernatur earum, incidunt, illo totam ullam, illum officiis voluptatibus quam deleniti quod ea quasi dolorum dolores omnis distinctio.",
+      "quantity": 31,
+      "rating": 3,
+      "bestPrice": false
+    },
+    {
+      "id": 9,
+      "name": "Iphone XS Max",
+      "image": "img/iphone.png",
+      "price": 6000,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quod. Non explicabo aspernatur earum, incidunt, illo totam ullam, illum officiis voluptatibus quam deleniti quod ea quasi dolorum dolores omnis distinctio.",
+      "quantity": 44,
+      "rating": 3,
+      "bestPrice": true
+    },
+    {
+      "id": 10,
+      "name": "Party Wear Brown Gown",
+      "image": "img/brown.png",
+      "price": 200,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quod. Non explicabo aspernatur earum, incidunt, illo totam ullam, illum officiis voluptatibus quam deleniti quod ea quasi dolorum dolores omnis distinctio.",
+      "quantity": 19,
+      "rating": 4,
+      "bestPrice": false
+    },
+    {
+      "id": 11,
+      "name": "Themostat Electric Iron",
+      "image": "img/iron.png",
+      "price": 99.99,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quod. Non explicabo aspernatur earum, incidunt, illo totam ullam, illum officiis voluptatibus quam deleniti quod ea quasi dolorum dolores omnis distinctio.",
+      "quantity": 71,
+      "rating": 5,
+      "bestPrice": false
+    },
+    {
+      "id": 12,
+      "name": "Aluminium Black Kettle",
+      "image": "img/kettle.png",
+      "price": 79.89,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quod. Non explicabo aspernatur earum, incidunt, illo totam ullam, illum officiis voluptatibus quam deleniti quod ea quasi dolorum dolores omnis distinctio.",
+      "quantity": 36,
+      "rating": 4,
+      "bestPrice": false
+    },
+    {
+      "id": 13,
+      "name": " Itel S15 /S15Pro Black",
+      "image": "img/itel.png",
+      "price": 1200,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quod. Non explicabo aspernatur earum, incidunt, illo totam ullam, illum officiis voluptatibus quam deleniti quod ea quasi dolorum dolores omnis distinctio.",
+      "quantity": 36,
+      "rating": 4,
+      "bestPrice": true
+    },
+    {
+      "id": 14,
+      "name": "Stainless Steel Kettle",
+      "image": "img/kettlep.png",
+      "price": 50,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quod. Non explicabo aspernatur earum, incidunt, illo totam ullam, illum officiis voluptatibus quam deleniti quod ea quasi dolorum dolores omnis distinctio.",
+      "quantity": 36,
+      "rating": 4,
+      "bestPrice": false
+    },
+    {
+      "id": 15,
+      "name": "Gooseneck Tea Kettle ",
+      "image": "img/ket.png",
+      "price": 60.00,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quod. Non explicabo aspernatur earum, incidunt, illo totam ullam, illum officiis voluptatibus quam deleniti quod ea quasi dolorum dolores omnis distinctio.",
+      "quantity": 36,
+      "rating": 4,
+      "bestPrice": false
+    },
+    {
+      "id": 16,
+      "name": "Cast Iron Tea Kettle",
+      "image": "img/kettle1.png",
+      "price": 41.00,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quod. Non explicabo aspernatur earum, incidunt, illo totam ullam, illum officiis voluptatibus quam deleniti quod ea quasi dolorum dolores omnis distinctio.",
+      "quantity": 36,
+      "rating": 4,
+      "bestPrice": false
+    },
+    {
+      "id": 17,
+      "name": "Nivea Soft Body Care",
+      "image": "img/nivea1.png",
+      "price": 30.00,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quod. Non explicabo aspernatur earum, incidunt, illo totam ullam, illum officiis voluptatibus quam deleniti quod ea quasi dolorum dolores omnis distinctio.",
+      "quantity": 36,
+      "rating": 4,
+      "bestPrice": true
+    },
+    {
+      "id": 18,
+      "name": "Nivea Active Clean For Men",
+      "image": "img/nivea2.png",
+      "price": 40.00,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quod. Non explicabo aspernatur earum, incidunt, illo totam ullam, illum officiis voluptatibus quam deleniti quod ea quasi dolorum dolores omnis distinctio.",
+      "quantity": 36,
+      "rating": 4,
+      "bestPrice": true
+    },
+    {
+      "id": 19,
+      "name": "Skin Firming Nivea Lotion",
+      "image": "img/niveasp.png",
+      "price": 25,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quod. Non explicabo aspernatur earum, incidunt, illo totam ullam, illum officiis voluptatibus quam deleniti quod ea quasi dolorum dolores omnis distinctio.",
+      "quantity": 36,
+      "rating": 4,
+      "bestPrice": true
+    },
+    {
+      "id": 20,
+      "name": "Nivea Invisible Sure Spray",
+      "image": "img/niveasure.png",
+      "price": 25.00,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quod. Non explicabo aspernatur earum, incidunt, illo totam ullam, illum officiis voluptatibus quam deleniti quod ea quasi dolorum dolores omnis distinctio.",
+      "quantity": 36,
+      "rating": 4,
+      "bestPrice": true
+    },
+    {
+      "id": 21,
+      "name": "Nivea His/Hers Gifting Bundle",
+      "image": "img/set.png",
+      "price": 150.00,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quod. Non explicabo aspernatur earum, incidunt, illo totam ullam, illum officiis voluptatibus quam deleniti quod ea quasi dolorum dolores omnis distinctio.",
+      "quantity": 36,
+      "rating": 4,
+      "bestPrice": true
+    },
+    {
+      "id": 22,
+      "name": "Nivea Max Hydration for Men",
+      "image": "img/men.png",
+      "price": 40.00,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quod. Non explicabo aspernatur earum, incidunt, illo totam ullam, illum officiis voluptatibus quam deleniti quod ea quasi dolorum dolores omnis distinctio.",
+      "quantity": 36,
+      "rating": 4,
+      "bestPrice": true
+    },
+    {
+      "id": 23,
+      "name": "White Reebok sneaker",
+      "image": "img/snick.png",
+      "price": 150.00,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quod. Non explicabo aspernatur earum, incidunt, illo totam ullam, illum officiis voluptatibus quam deleniti quod ea quasi dolorum dolores omnis distinctio.",
+      "quantity": 36,
+      "rating": 4,
+      "bestPrice": false
+    },
+    {
+      "id": 24,
+      "name": "Iphone 5s Black",
+      "image": "img/iphone5.png",
+      "price": 4000.00,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quod. Non explicabo aspernatur earum, incidunt, illo totam ullam, illum officiis voluptatibus quam deleniti quod ea quasi dolorum dolores omnis distinctio.",
+      "quantity": 36,
+      "rating": 4,
+      "bestPrice": true
+    },
+    {
+      "id": 25,
+      "name": "New Balance White Sneaker",
+      "image": "img/snicker.png",
+      "price": 150,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quod. Non explicabo aspernatur earum, incidunt, illo totam ullam, illum officiis voluptatibus quam deleniti quod ea quasi dolorum dolores omnis distinctio.",
+      "quantity": 36,
+      "rating": 4,
+      "bestPrice": true
+    }
+  ]
+}
+
+
+
+
+
+

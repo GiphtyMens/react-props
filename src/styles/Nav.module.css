@@ -1,0 +1,26 @@
+.navbar {
+  height: 6rem;
+  width: 100%;
+  /* border: 1px solid black; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.231);
+  background-color: white;
+  position: fixed;
+  z-index: 1;
+}
+
+.navbar_logo {
+  margin: 0 0 0 4rem;
+}
+
+.navbar_logo > h3,
+.navbar_icon > h4 {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.navbar_icon {
+  margin: 0 4rem 0 0;
+}
